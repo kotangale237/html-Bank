@@ -1,0 +1,34 @@
+header>div{
+    background-color: #0b5fff;
+    position: relative;
+    top:5px;
+    
+}
+header>div a{
+    color: white;
+}
+header>div>li{
+    display: inline-block;
+    
+}
+header>div>.left{
+    position: absolute;
+    right:0px;
+}
+.bank-name{
+    background-color: rgb(196, 215, 250);
+
+}
+.bank-name>h1{
+    position: relative;
+    top: 8px;
+    left:50px;
+    color: rgb(2, 11, 52);
+    
+}
+.bank-name>p{
+    position: relative;
+    bottom: 15px;
+    left:50px;
+    color: rgb(2, 11, 52);
+}

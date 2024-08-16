@@ -1,0 +1,56 @@
+#a{
+    background-color: #EF5A6F;
+    border-radius: 20px;
+    position: relative;
+}
+#a h1{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+#a p{
+    padding: 10px;
+    padding-top: 0px;
+}
+#b{
+    background-color: #FFF1DB;
+    border-radius: 20px;
+}
+#b h2{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+#b p{
+    padding: 10px;
+    padding-top: 0px;
+}
+#c{
+    background-color: #D4BDAC;
+    border-radius: 20px;
+}
+#c h2{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+#c p{
+    padding: 10px;
+    padding-top: 0px;
+}
+#d{
+    background-color: #536493;
+    border-radius: 20px;
+}
+#d h2{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+#d p{
+    padding: 10px;
+    padding-top: 0px;
+}
+body{
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    left: 10%;
+    top: 20px;
+}
